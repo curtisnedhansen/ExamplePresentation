@@ -10,4 +10,4 @@ Files for the project:
 - `slides.Rmd` code that generates the slides
 - `index.html` this is the output set of slides
 
-See the slides at (https://curtisnedhansen.github.io/ExamplePresentation/)[https://curtisnedhansen.github.io/ExamplePresentation/#1]
+**See the slides** using gh-pages [at this link](https://curtisnedhansen.github.io/ExamplePresentation/).
