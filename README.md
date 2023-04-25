@@ -6,7 +6,7 @@ This  was meant to be a simple demonstration of using RMarkdown to create slides
 Data was from XYZ cited location. I cleaned the data using A, B, and C steps. The slides were created using RStudio and the 
 
 Files for the project:
-- 'mydata.csv` raw data
+- `Latinobarometro_2020_Eng_Rdata_v1_0` raw data
 - `slides.Rmd` code that generates the slides
 - `index.html` this is the output set of slides
 
